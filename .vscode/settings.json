@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "scrollbarSlider.background": "#778899",
+        "scrollbarSlider.hoverBackground": "#DCDCDC",
+        "scrollbarSlider.activeBackground": "#DCDCDC",
+        "activityBar.background": "#0E342A",
+        "titleBar.activeBackground": "#13483B",
+        "titleBar.activeForeground": "#F5FCFA"
+    },
+    "cSpell.words": [
+        "Olvidepassword",
+        "repeatpassword"
+    ]
+}
